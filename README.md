@@ -8,7 +8,7 @@
 
 - 💻 Cursando técnico em Tecnologia da Informação;
 - 📚 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84); 
-- 💚 Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
+- 💚 Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) 2025 | [Instituto Caldeira](https://institutocaldeira.org.br/);
 - 🎲 Trilha de Inteligência Artificial e Dados;
 - 📩 Contato: annatpunterberger@gmail.com
 
