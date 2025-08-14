@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/anna-thereza-unterberger-8b80562b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> <br>
 
-## Tecnologias que já domino ou estou aprendendo:
+## Tecnologias e habilidades que já possuo ou estou em processo de aprendizado:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
