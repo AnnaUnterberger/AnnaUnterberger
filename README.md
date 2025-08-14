@@ -6,7 +6,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-- 💻 Cursando técnico de programação;
+- 💻 Cursando técnico em Tecnologia da Informação;
 - 📚 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84); 
 - 💚 Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
 - 🎲 Trilha de Inteligência Artificial e Dados;
