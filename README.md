@@ -10,7 +10,7 @@
 - 📚 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84); 
 - 💚 Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
 - 🎲 Trilha de Inteligência Artificial e Dados;
-- 📩 Contato: annatpunterberger@gmail.com@gmail.com
+- 📩 Contato: annatpunterberger@gmail.com
 
 <div> 
   <a href="https://www.instagram.com/annatherezaunt?igsh=MTZvN2F2dmZjYm9i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
